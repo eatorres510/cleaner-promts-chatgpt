@@ -1,4 +1,4 @@
-# cleaner-promts
+# cleaner-promts-ChatGPT
 
 👨‍💻 The code imports necessary libraries such as OpenAI, pandas, spacy, gensim, typer, and tabulate.
 
